@@ -1,0 +1,15 @@
+/Users/zelamkh/C#HomeWork5/HW.Task38/bin/Debug/net6.0/HW.Task38
+/Users/zelamkh/C#HomeWork5/HW.Task38/bin/Debug/net6.0/HW.Task38.deps.json
+/Users/zelamkh/C#HomeWork5/HW.Task38/bin/Debug/net6.0/HW.Task38.runtimeconfig.json
+/Users/zelamkh/C#HomeWork5/HW.Task38/bin/Debug/net6.0/HW.Task38.dll
+/Users/zelamkh/C#HomeWork5/HW.Task38/bin/Debug/net6.0/HW.Task38.pdb
+/Users/zelamkh/C#HomeWork5/HW.Task38/obj/Debug/net6.0/HW.Task38.csproj.AssemblyReference.cache
+/Users/zelamkh/C#HomeWork5/HW.Task38/obj/Debug/net6.0/HW.Task38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/C#HomeWork5/HW.Task38/obj/Debug/net6.0/HW.Task38.AssemblyInfoInputs.cache
+/Users/zelamkh/C#HomeWork5/HW.Task38/obj/Debug/net6.0/HW.Task38.AssemblyInfo.cs
+/Users/zelamkh/C#HomeWork5/HW.Task38/obj/Debug/net6.0/HW.Task38.csproj.CoreCompileInputs.cache
+/Users/zelamkh/C#HomeWork5/HW.Task38/obj/Debug/net6.0/HW.Task38.dll
+/Users/zelamkh/C#HomeWork5/HW.Task38/obj/Debug/net6.0/refint/HW.Task38.dll
+/Users/zelamkh/C#HomeWork5/HW.Task38/obj/Debug/net6.0/HW.Task38.pdb
+/Users/zelamkh/C#HomeWork5/HW.Task38/obj/Debug/net6.0/HW.Task38.genruntimeconfig.cache
+/Users/zelamkh/C#HomeWork5/HW.Task38/obj/Debug/net6.0/ref/HW.Task38.dll
