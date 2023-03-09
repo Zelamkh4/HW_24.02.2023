@@ -1,0 +1,15 @@
+/Users/zelamkh/C#HomeWork5/HW.Task34/bin/Debug/net6.0/HW.Task34
+/Users/zelamkh/C#HomeWork5/HW.Task34/bin/Debug/net6.0/HW.Task34.deps.json
+/Users/zelamkh/C#HomeWork5/HW.Task34/bin/Debug/net6.0/HW.Task34.runtimeconfig.json
+/Users/zelamkh/C#HomeWork5/HW.Task34/bin/Debug/net6.0/HW.Task34.dll
+/Users/zelamkh/C#HomeWork5/HW.Task34/bin/Debug/net6.0/HW.Task34.pdb
+/Users/zelamkh/C#HomeWork5/HW.Task34/obj/Debug/net6.0/HW.Task34.csproj.AssemblyReference.cache
+/Users/zelamkh/C#HomeWork5/HW.Task34/obj/Debug/net6.0/HW.Task34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/C#HomeWork5/HW.Task34/obj/Debug/net6.0/HW.Task34.AssemblyInfoInputs.cache
+/Users/zelamkh/C#HomeWork5/HW.Task34/obj/Debug/net6.0/HW.Task34.AssemblyInfo.cs
+/Users/zelamkh/C#HomeWork5/HW.Task34/obj/Debug/net6.0/HW.Task34.csproj.CoreCompileInputs.cache
+/Users/zelamkh/C#HomeWork5/HW.Task34/obj/Debug/net6.0/HW.Task34.dll
+/Users/zelamkh/C#HomeWork5/HW.Task34/obj/Debug/net6.0/refint/HW.Task34.dll
+/Users/zelamkh/C#HomeWork5/HW.Task34/obj/Debug/net6.0/HW.Task34.pdb
+/Users/zelamkh/C#HomeWork5/HW.Task34/obj/Debug/net6.0/HW.Task34.genruntimeconfig.cache
+/Users/zelamkh/C#HomeWork5/HW.Task34/obj/Debug/net6.0/ref/HW.Task34.dll
